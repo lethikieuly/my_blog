@@ -2,6 +2,7 @@
 Author: W3layouts
 Author URL: http://w3layouts.com
  */
+
  @charset "UTF-8";
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
@@ -6906,6 +6907,7 @@ a.close.disabled {
 
 .carousel-fade .active.carousel-item-left,
 .carousel-fade .active.carousel-item-right {
+
   z-index: 0;
   opacity: 0;
   transition: opacity 0s 0.6s; }

@@ -29,7 +29,7 @@
                         <a class="nav-link" href="bookandstories.php">Book&stories</a>
                     </li>
                     <li class="nav-item @@contact-active">
-                        <a class="nav-link" href="Resourse.html">Resourse</a>
+                        <a class="nav-link" href="project.php">Project</a>
                     </li>
                     <li class="nav-item @@contact-active">
                         <a class="nav-link" href="Vietnam.html">Việt Nam</a>

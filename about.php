@@ -18,8 +18,8 @@
   <!-- about -->
   <div class="about py-5">
     <div class="container py-lg-3">
-      <div class="row">
-        <div class="col-lg-6 publication-about-grid">
+      <div class="flex">
+        <div class="w-2/3">
           <p class="mb-4 mt-0 about-title"><b>My dream journey</b> Each step will bring me more experiences and improve
             myself.</p>
           <p class="mb-4">I was born and raised with nature, the environment here is not fully equipped with facilities,
@@ -31,8 +31,9 @@
             unknown printer took a galley
             of type and scrambled it to make a type specimen book.</p>
         </div>
-        <div class="col-lg-6 col-md-6 mt-lg-0 mt-5 real-about-grid">
-          <img src="assets/images/about.jpg" alt=" " class="img-fluid" />
+        <div class="w-1/3 flex justify-center">
+          <img src="./assets/images/ly.PNG" alt="" class="img-fluid w-80 h-80 
+          rounded-full object-cover" />
         </div>
       </div>
       <div class="row mt-5">
