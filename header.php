@@ -22,7 +22,7 @@
                     <li class="nav-item @@home-active">
                         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item active">
+                    <li class="nav-item ">
                         <a class="nav-link" href="about.php">About</a>
                     </li>
                     <li class="nav-item @@contact-active">

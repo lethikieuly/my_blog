@@ -5,104 +5,49 @@
     <?php include_once 'header.php' ?>
     <section class="w3l-breadcrumb py-5">
     <div class="container">
-      <h6 class="sub-title">About me</h5>
-        <div class="header-section">
-          <h3>Kieu Ly</h3>
-          <p>My name is Kieu Ly, and I am currently a senior at the University of Economics and Law -Vietnam National
-            University, major E-commerce.
-            I love making things work... better! I love reading books, drawing comics, creating things in many colors
+        <div class="header-section w-2/3 text-justify mx-auto">
+        <h6 class="sub-title">About me</h5>
+          <h3>Kiều Ly</h3>
+          <p>Mình là Kiều Ly, hiện tại mình đang là sinh viên năm 4 trước đại học Kinh tế - Luật, TPĐHQG HCM, Chuyên ngành: Thương Mại điện tử
+            Mình yêu cái đẹp và muốn làm mọi thứ tốt hơn. Trong thời gian rảnh mình sẽ đọc sách và viết lách. Mình có niềm yêu thích với toán học và phân tích vấn đề. Hiện tại mình đang 
+            chăm chỉ và trao dồi kiến thức để trở thành một Data Analysis- một trong số các mục tiêu đề ra.
           </p>
         </div>
     </div>
   </section>
   <!-- about -->
   <div class="about py-5">
-    <div class="container py-lg-3">
+    <div class="container w-2/3 mx-auto py-lg-3">
       <div class="flex">
-        <div class="w-2/3">
-          <p class="mb-4 mt-0 about-title"><b>My dream journey</b> Each step will bring me more experiences and improve
-            myself.</p>
-          <p class="mb-4">I was born and raised with nature, the environment here is not fully equipped with facilities,
-            but it is a place to create a strong and trying person.</p>
-          <p class="mb-4">The journey I took to step into the university door. Currently, I am a 3rd year student of
-            University of Economics and Law (UEL for short), I am very proud that I am UELer - this place has given me
-            dynamism, competition, and great teachers. great.</p>
-          <p class="mb-4">Lorem Ipsum is simply dummy text of the Ipsum has been the industry's since the 1500s, when an
-            unknown printer took a galley
-            of type and scrambled it to make a type specimen book.</p>
+        <div class="w-2/3 text-justify pr-4">
+          <h2 class="mb-4 mt-0 about-title"><b>Tôi đang làm gì?</b> </h2>
+          <p class="mb-4">1. Tôi đang là sinh viên năm 4 trường đại học Kinh tế Luật, chuyên ngành Thương mại điện tử, dự kiến tốt nghiệp năm 2022</p>
+          <p class="mb-4"></p>
+          <p class="mb-4">2. Trong dịch covid 19, ngoài việc học trên trường, tôi xây dựng kế hoạch theo giỏi bản thân, tập trung cải thiện kiến thức
+            chuyên nghành và chuẩn bị cho đợt thực tập sắp tới </p>
+          <p class="mb-4"></p>
+          <p class="mb-4">3. Tôi viết bản tin email vào những thời gian rảnh, chia sẻ một cuốn sách hay một chủ đề mà tôi yêu thích. Tôi cũng hay xem tin 
+            tức mạng xã hội để tìm các nguồn tài liệu hay để tham khảo. </p>
+          <p class="mb-4"></p>
+          <p class="mb-4">4. Trên website này, tôi viết lách về cuộc sống, chia sẽ những kỷ niệm của bản thân và hành trình tôi đi bắt đầu từ đại học. 
+            Đồng thời hướng dẫn những kiến thức, ứng dụng hoặc công nghệ mà tôi yêu thích và cảm thấy hữu ích trong nhiều năm. </p>
+          <p class="mb-4"></p>
+          <h2 class="mb-4 mt-0 about-title"><b>Những thứ khác về bản thân tôi</b> </h2>
+          <p class="mb-4">Tôi thích toán học, hầu hết các điểm môn lý thuyết sác xuất, ma trận điểm đều A. Tôi thấy nó rất hữu ích, sau này tôi càng học thêm 
+            về phân tích dữ liệu, mọi quyết định được đưa ra đều có tính logic và thông qua toán học, nó nắm một vai trò quan trọng trong giải quyết bài toán, và không 
+            dựa trên tính chủ quan của người phân tích.
+            Ngoài ra, Tôi thích đọc sách, nó giúp tôi tập trung và cân bằng cảm xúc. Lúc ở quê, gia đình tôi không khá giả nên việc mua sách
+            còn hạn chế, sau khi lên đại học tôi có thể trao đổi sách với bạn bè, mược thư viện, và biến thêm nhiều nguồn sách đọc online trên mạng. Thông qua những cuốn sách
+            bé nhỏ chứa đậm mùi thơm của giấy, tôi đã khám phá được nhiều thứ bên ngoài, hoặc những điều mà mình chưa từng nghe tới.
+            Hát hay nhảy không phải sở trường của tôi, bù lại tôi lại biết vẽ và cũng yêu thích nó nhiều, tôi luôn có niềm tin rằng mỗi bức tranh đều có hồn và thể hiện được tâm trạng của người vẽ.
+            Khi đặt bút lên tấm giấy, ta tậm trung và đưa cảm xúc vào những nét vẽ. Tôi nghĩ đó là một điều tuyệt vời</p>
         </div>
-        <div class="w-1/3 flex justify-center">
+        <div class="   flex justify-center">
           <img src="./assets/images/ly.PNG" alt="" class="img-fluid w-80 h-80 
           rounded-full object-cover" />
         </div>
       </div>
-      <div class="row mt-5">
-        <div class="col-md-12 publication-about-grid">
-          <p class="mb-4">It is a long established fact that a reader will be distracted by the readable content of a
-            page when looking at its layout.
-            The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to
-            using 'Content here, content
-            here', making it look like readable English.</p>
-
-          <p class="mb-4">But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain
-            was born and I will give you a
-            complete account of the system, and expound the actual teachings of the great explorer of the truth, the
-            master-builder of human happiness.
-          </p>
-
-          <p class="mb-5">On the other hand, we denounce with righteous indignation and dislike men who are so beguiled
-            and demoralized by the charms of
-            pleasure of the moment, so blinded by desir.</p>
-
-          <div class="my-4 header-about">
-            <h3 class="mb-3 about-head-title">Writing is all our life:</h3>
-          </div>
-          <p class="mb-4">"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
-            voluptatum deleniti atque corrupti quos
-            dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui
-            officia deserunt mollitia animi, id
-            est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore,
-            cum soluta nobis est eligendi
-            optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est,
-            omnis dolor repellendus.
-            Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates
-            repudiandae sint et molestiae non
-            recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias
-            consequatur aut perferendis
-            doloribus asperiores repellat." </p>
-
-          <p class="mb-4">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-            laudantium, totam rem aperiam, eaque
-            ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-
-          <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-            in some form, by injected humour,
-            or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem
-            Ipsum, you need to be sure there
-            isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet
-            tend to repeat predefined chunks as
-            necessary, making this the first true generator on the Internet.</p>
-
-          <div class="about-page-content mt-4 pt-lg-3">
-            <h3 class="about-head-title m-0 mb-4">Developing first class solutions for our clients.</h3>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime vel nam tenetur sequi
-              assumenda fuga
-              sit non praesentium aut voluptatibus rem repellendus amet fugit, ab eligendi ratione, placeat quo
-              ducimus at? Et suscipit earum reiciendis perferendis, dignissimos, labore quos voluptatibus voluptas
-              ipsam placeat voluptates laborum maxime asperiores natus tempore incidunt. </p>
-            <div class="text-list">
-              <ol>
-                <li>Quisque sagittis lacus eu lorem sodalesd enean adipiscing.</li>
-                <li>Sed ut perspiciatis unde omnis natus</li>
-                <li>Get started with Online Education!</li>
-                <li>It’s limited seating! Hurry up. Get the Coaching Training for Free</li>
-                <li>Nam libero tempore, cum soluta nobis est eligendi optio </li>
-                <li>Onec Consequat sapien ut cursus rhoncus</li>
-              </ol>
-            </div>
-          </div>
-        </div>
-      </div>
+  
     </div>
   </div>
   <!-- subscribe form -->
