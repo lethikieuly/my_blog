@@ -4,10 +4,16 @@
     <p class="text-center">
       <span class="text-white mr-3">© 2021 KieuLy | Created by KieuLy Blog</span>
     </p>
-    <p class="text-center"><span class="text-gray-100 font-semibold cursor-pointer underline mx-3">Facebook</span>
-      <span class="text-gray-100 font-semibold cursor-pointer underline mr-3">Github</span>
-      <span class="text-gray-100 font-semibold cursor-pointer underline mr-3">Youtube</span>
-      <span class="text-gray-100 font-semibold cursor-pointer underline mr-3">Linkedin</span></p>
+    <p class="text-center"><span class="text-gray-100 font-semibold cursor-pointer underline mx-3">
+    <a href= " https://www.facebook.com/kieuly1812/ " > Facebook </a>
+    </span>
+      <span class="text-gray-100 font-semibold cursor-pointer underline mr-3">
+      <a href= " https://github.com/lethikieuly" > Github </a>
+      </span>
+      <span class="text-gray-100 font-semibold cursor-pointer underline mr-3">
+      <a href= " https://www.linkedin.com/in/kieu-ly/" > Linkedin </a>
+      </span>
+      <span class="text-gray-100 font-semibold cursor-pointer underline mr-3">Youtube</span></p>
     <p class="font-bold text-4xl my-6 hidden">Kieu Ly</p>
     <div class="hidden">
       <div class="w-full flex">

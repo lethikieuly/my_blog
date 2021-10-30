@@ -8,9 +8,10 @@
         <div class="header-section w-2/3 text-justify mx-auto">
         <h6 class="sub-title">About me</h5>
           <h3>Kiều Ly</h3>
-          <p>Mình là Kiều Ly, hiện tại mình đang là sinh viên năm 4 trước đại học Kinh tế - Luật, TPĐHQG HCM, Chuyên ngành: Thương Mại điện tử
-            Mình yêu cái đẹp và muốn làm mọi thứ tốt hơn. Trong thời gian rảnh mình sẽ đọc sách và viết lách. Mình có niềm yêu thích với toán học và phân tích vấn đề. Hiện tại mình đang 
-            chăm chỉ và trao dồi kiến thức để trở thành một Data Analysis- một trong số các mục tiêu đề ra.
+          <p>Mình là Kiều Ly, hiện tại mình đang là sinh viên năm 4 trước đại học Kinh tế - Luật, TPĐHQG HCM, Chuyên ngành: Thương Mại điện tử.
+            Mình đang theo lĩnh vực Data Analysis, thu thập, chuyển đội và phân tích dữ liệu để đưa đến các quyết định sáng suốt.
+            Mình sáng tạo Blog này vào tháng 5/2021 như là một dự án đam mê nhỏ trong mùa Covid và cũng là một trong những cách để kể nên câu chuyện
+            của chính bản thân mình với các bạn đọc.
           </p>
         </div>
     </div>
@@ -33,14 +34,7 @@
             Đồng thời hướng dẫn những kiến thức, ứng dụng hoặc công nghệ mà tôi yêu thích và cảm thấy hữu ích trong nhiều năm. </p>
           <p class="mb-4"></p>
           <h2 class="mb-4 mt-0 about-title"><b>Những thứ khác về bản thân tôi</b> </h2>
-          <p class="mb-4">Tôi thích toán học, hầu hết các điểm môn lý thuyết sác xuất, ma trận điểm đều A. Tôi thấy nó rất hữu ích, sau này tôi càng học thêm 
-            về phân tích dữ liệu, mọi quyết định được đưa ra đều có tính logic và thông qua toán học, nó nắm một vai trò quan trọng trong giải quyết bài toán, và không 
-            dựa trên tính chủ quan của người phân tích.
-            Ngoài ra, Tôi thích đọc sách, nó giúp tôi tập trung và cân bằng cảm xúc. Lúc ở quê, gia đình tôi không khá giả nên việc mua sách
-            còn hạn chế, sau khi lên đại học tôi có thể trao đổi sách với bạn bè, mược thư viện, và biến thêm nhiều nguồn sách đọc online trên mạng. Thông qua những cuốn sách
-            bé nhỏ chứa đậm mùi thơm của giấy, tôi đã khám phá được nhiều thứ bên ngoài, hoặc những điều mà mình chưa từng nghe tới.
-            Hát hay nhảy không phải sở trường của tôi, bù lại tôi lại biết vẽ và cũng yêu thích nó nhiều, tôi luôn có niềm tin rằng mỗi bức tranh đều có hồn và thể hiện được tâm trạng của người vẽ.
-            Khi đặt bút lên tấm giấy, ta tậm trung và đưa cảm xúc vào những nét vẽ. Tôi nghĩ đó là một điều tuyệt vời</p>
+        
         </div>
         <div class="   flex justify-center">
           <img src="./assets/images/ly.PNG" alt="" class="img-fluid w-80 h-80 
@@ -49,6 +43,14 @@
       </div>
   
     </div>
+    <div class=" container w-2/3 mx-auto py-lg-3">Tôi thích toán học, hầu hết các điểm môn lý thuyết sác xuất, ma trận điểm đều A. Tôi thấy nó rất hữu ích, sau này tôi càng học thêm 
+            về phân tích dữ liệu, mọi quyết định được đưa ra đều có tính logic và thông qua toán học, nó nắm một vai trò quan trọng trong giải quyết bài toán, và không 
+            dựa trên tính chủ quan của người phân tích.
+            Ngoài ra, Tôi thích đọc sách, nó giúp tôi tập trung và cân bằng cảm xúc. Lúc ở quê, gia đình tôi không khá giả nên việc mua sách
+            còn hạn chế, sau khi lên đại học tôi có thể trao đổi sách với bạn bè, mược thư viện, và biến thêm nhiều nguồn sách đọc online trên mạng. Thông qua những cuốn sách
+            bé nhỏ chứa đậm mùi thơm của giấy, tôi đã khám phá được nhiều thứ bên ngoài, hoặc những điều mà mình chưa từng nghe tới.
+            Hát hay nhảy không phải sở trường của tôi, bù lại tôi lại biết vẽ và cũng yêu thích nó nhiều, tôi luôn có niềm tin rằng mỗi bức tranh đều có hồn và thể hiện được tâm trạng của người vẽ.
+            Khi đặt bút lên tấm giấy, ta tậm trung và đưa cảm xúc vào những nét vẽ. Tôi nghĩ đó là một điều tuyệt vời</p></div>
   </div>
   <!-- subscribe form -->
   <!-- //subscribe form -->

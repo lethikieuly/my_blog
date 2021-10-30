@@ -41,36 +41,72 @@
             <div class="w-full flex flex-col lg:flex-row">
                 <div class="lg:w-2/3 w-full border-2 border-solid border-pink-200 p-8 bg-pink-100 mr-10" id="content__project">
                     <p class="text-2xl font-semibold my-3">
-                        Data Analyst
+                        My project
                     </p>
-                    <img src="https://i0.wp.com/anhnhat.me/wp-content/uploads/2021/07/My-Project.png?fit=600%2C500&ssl=1" 
+                    <img src="./assets/images/Myproject.jpg"
                         alt=""
                         class="w-2/3 my-5 mx-auto object-cover"
                     />
                     <p class="font-bold my-3 text-xl">
-                        1.(2019) A proposed method for opinion mining online media of smartphone with Vietnamese text
+                        1.(2020) Twitter trending EDA - Final project of Web Data Mining Subject.
                     </p>
                     <p class="font-semibold my-3 text-xl">Abstract/Description:</p>
 
                     <p class="text-xl">
-                        The rapid growth of the Internet has increased the number of people who accessed on Internet, 
-                        customers can quickly search for information about products. Besides, businesses can clearly 
-                        promote their products to users with low cost by many methods, but the most typical one is 
-                        online newspapers and reviews. This study classify entire news (with user’s comments) in 
-                        smartphone field. To accomplish that, four machine learning models are considered (LSTM, 
-                        BiLSTM, SVM, and BERT). One of them is based on BERT that is a modern Deep Learning model 
-                        for Natural Language Processing tasks created by Google recently that has achieved state-of-the-art 
-                        results.
+                    This project focus on two main jobs:
+                    
+                    <p class="text-xl">
+                    – Crawled Twitter Trending about Bitcoin via Twitter API, all coding inherited and modified from a Github repo.
+                    </p>
+                    <p class="text-xl">
+                    – Exploratory data analysis (EDA) this crawled data and give  insightful information.
+                    </p>
                     </p>
 
                     <div class="my-3 flex items-center text-xl">
                         <p class="font-bold mr-1 text-xl">Link : </p>
                         <ul class="flex">
-                            <li class="p-0.5 text-pink-600 font-bold cursor-pointer underline">Paper,</li>
-                            <li class="p-0.5 text-pink-600 font-bold cursor-pointer underline">Github,</li>
-                            <li class="p-0.5 text-pink-600 font-bold cursor-pointer underline">Youtube</li>
+                            <li class="p-0.5 text-pink-600 font-bold cursor-pointer underline">
+                            <a href= "https://github.com/lethikieuly/Data-mining-/blob/main/Nhom5Deiz.pdf" > Paper, </a>
+                            </li>
+                            <li class="p-0.5 text-pink-600 font-bold cursor-pointer underline">
+                            <a href= "https://github.com/lethikieuly/Data-mining-/blob/main/DoAn.ipynb" > Github </a>
+                            </li>
+                        
                         </ul>
                     </div>
+                    <p class="font-bold my-3 text-xl">
+                        2.Design and Implementation of Web front-end
+                    </p>
+                    <p class="font-semibold my-3 text-xl">Abstract/Description:</p>
+
+                    <p class="text-xl">
+                    Technology mechanism analysis of Web front-end, we do the requirement from Business Requirement and Functional Requirement, define all the
+                    function modules and draw the use cases and class diagram with UML. After the implementation is done, we test the system on performance and functions
+                    and point the weakness founded during testing.
+                    Our project achieved an excellent score (9.5/10) in this subject.
+
+                    </p>
+
+                    <div class="my-3 flex items-center text-xl">
+                        <p class="font-bold mr-1 text-xl">Link : </p>
+                        <ul class="flex">
+                            <li class="p-0.5 text-pink-600 font-bold cursor-pointer underline">
+                            <a href= "https://drive.google.com/drive/u/0/my-drive" > Paper, </a>
+                            </li>
+                            <li class="p-0.5 text-pink-600 font-bold cursor-pointer underline">
+                            <a href= "https://github.com/Zero-432/Web1" > Github, </a>
+                            </li>
+                            <li class="p-0.5 text-pink-600 font-bold cursor-pointer underline">
+                            <a href= "https://thebigcityshoes.com/" > Access </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <p class="font-bold my-3 text-xl">
+                 
+
+                    
+
 
                     <hr class="mb-2 w-24">
                     <p class="my-1 font-bold">Share this : </p>
