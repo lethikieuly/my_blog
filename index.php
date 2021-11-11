@@ -15,9 +15,10 @@
             <p class="text-xl mb-3">Mình là thành viên của Information Technology for Business Club (ITB), và tham gia tổ chức các chương trình học thuật về Business Intelligence, Ecommerce.
                 Mình cũng tham gia các chương trình hợp tác giữa khoa và doanh nghiệp. Mình thích chụp ảnh, thử những món ăn mới, đi xe đạp và các hoạt động ngoài trời... Cho đến nay, khoảng thời
             gian 3 năm tại UEL là những kỷ niệm đáng nhớ.  </p>
-            <p class="text-xl mb-3">Blog này là nơi mình chia sẻ những hành trình của mình, cảm ơn tất cả các bạn đã đến đây để ủng hộ mình.</p>
+            <p class="text-xl mb-3">Blog này là nơi mình chia sẻ những hành trình của mình ở đại học và trong tương lai, cảm ơn tất cả các bạn đã đến đây để ủng hộ mình.</p>
                 <button class="px-8 py-3 rounded-lg bg-pink-500 text-white font-semibold my-3
-                bg-gradient-to-r from-pink-600 to-red-400">About me</button>
+                bg-gradient-to-r from-pink-600 to-red-400">
+                <a href="about.php">About me</a></button>
             </div>
             <div class="w-1/2 flex items-center">
                 <img src="./assets/images/b.PNG" alt="" class="img-fluid w-full h-72 rounded-lg object-cover" />

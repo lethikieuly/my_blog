@@ -3,140 +3,69 @@
 <?php include_once 'head.php' ?>
 <body>
     <?php include_once 'header.php' ?>
-    <section class="w3l-breadcrumb py-5">
-    <div class="container">
-        <div class="header-section w-2/3 text-justify mx-auto">
-        <h6 class="sub-title">About me</h5>
-          <h3>Kiều Ly</h3>
-          <p>Mình là Kiều Ly, hiện tại mình đang là sinh viên năm 4 trước đại học Kinh tế - Luật, TPĐHQG HCM, Chuyên ngành: Thương Mại điện tử.
-            Mình đang theo lĩnh vực Data Analysis, thu thập, chuyển đội và phân tích dữ liệu để đưa đến các quyết định sáng suốt.
-            Mình sáng tạo Blog này vào tháng 5/2021 như là một dự án đam mê nhỏ trong mùa Covid và cũng là một trong những cách để kể nên câu chuyện
-            của chính bản thân mình với các bạn đọc.
-          </p>
-        </div>
+    <div  style="height:250px;">
+        <div class="w-1/12 mx-auto h-full">
+            <div class=" h-4/5  flex items-center">
+                <img src="./assets/images/logo.jpg" class="h-2/3 object-contain" alt="" srcset="">
+            </div>  
+           
+        </div>  
     </div>
-  </section>
-  <!-- about -->
-  <div class="about py-5">
-    <div class="container w-2/3 mx-auto py-lg-3">
-      <div class="flex">
-        <div class="w-2/3 text-justify pr-4">
-          <h2 class="mb-4 mt-0 about-title"><b>Tôi đang làm gì?</b> </h2>
-          <p class="mb-4">1. Tôi đang là sinh viên năm 4 trường đại học Kinh tế Luật, chuyên ngành Thương mại điện tử, dự kiến tốt nghiệp năm 2022</p>
-          <p class="mb-4"></p>
-          <p class="mb-4">2. Trong dịch covid 19, ngoài việc học trên trường, tôi xây dựng kế hoạch theo giỏi bản thân, tập trung cải thiện kiến thức
-            chuyên nghành và chuẩn bị cho đợt thực tập sắp tới </p>
-          <p class="mb-4"></p>
-          <p class="mb-4">3. Tôi viết bản tin email vào những thời gian rảnh, chia sẻ một cuốn sách hay một chủ đề mà tôi yêu thích. Tôi cũng hay xem tin 
-            tức mạng xã hội để tìm các nguồn tài liệu hay để tham khảo. </p>
-          <p class="mb-4"></p>
-          <p class="mb-4">4. Trên website này, tôi viết lách về cuộc sống, chia sẽ những kỷ niệm của bản thân và hành trình tôi đi bắt đầu từ đại học. 
-            Đồng thời hướng dẫn những kiến thức, ứng dụng hoặc công nghệ mà tôi yêu thích và cảm thấy hữu ích trong nhiều năm. </p>
-          <p class="mb-4"></p>
-          <h2 class="mb-4 mt-0 about-title"><b>Những thứ khác về bản thân tôi</b> </h2>
-        
+    <div class="content w-9/12 mx-auto">
+        <div class="w-full flex flex-col lg:flex-row">
+                <div class="lg:w-2/3 w-full" id="content__project">
+                    <p class="text-2xl font-semibold my-3 text-center ">
+                        About
+                    </p>
+                    <img src="./assets/images/blog.png"
+                        alt=""
+                        class="my-5 mx-auto object-cover"
+                    />
+                    <p><center><strong>LE THI KIEU LY |<br />
+                    </strong><I>&#8217;Cần cù để thông minh.</i></center></p>
+                    <p>Mình là Kiều Ly (hay còn gọi là CaFA) mình sinh ra tại một làng nhỏ ở Quảng Nam, Việt Nam.
+                    Hiện tại, đang là sinh viên năm 4 trường Đại học Kinh tế- Luật, chuyên ngành Thương mại điện tử. Mình từng là thành viên của Information Technology for Business Club (ITB CLUB) - CLB học thuật khoa Hệ Thống thông tin, thuộc ban truyền thông. Và điều để nói về ITB là “Chủ động - Trách nhiệm -Nhiệt Huyết” .Trong suốt TG đại học, mình tham gia nhiều chương trình tình nguyện lớn: Mùa hè xanh 2019, Giờ Trái Đất 2018, và tham gia tổ chức một số chương trình học thuật: Business Intelligence, 3T...
+                    Mình thích chụp ảnh, thử những món ăn mới, đi xe đạp và các hoạt động ngoài trời. Mình  đánh cầu lông cùng bạn bè mỗi ngày.
+                    </p>
+                    <p><center><strong>CÂU CHUYỆN CỦA MÌNH |<br />
+                    </strong><I>Ngành mình yêu thích</i></center></p>
+                    <p>Hiện tại, mình đang theo đuổi lĩnh vực Data Analysis. Ở trường, ngành mình đang học là sự giao thoa giữa kinh tế và kỹ thuật. Các môn kinh tế bao gồm: E-commerce, CRM, Supply chain, E-marketing, Accountant, Business Analysis (GPA: 8.0), Lý thuyết sác xuất (GPA: 8.5). Đối với kỹ thuật, mình sẽ được học về CTDL và giải thuật, Database(GPA: 8.0), data mining (7.5), web(8.5). Mình học thêm một số kiến thức bên ngoài SQL, PowerBI, Python từ các khóa học như coursera, edx, microsoft và sách trên manning.com. Data Analysis giống như cái duyên, năm nhất mình được nghe nhiều anh chị trong trường, youtube kể về những câu chuyên trong ngành. Câu mình ấn tượng nhất là “Dữ liệu là một câu chuyện”. Nếu không có câu chuyện, rất khó để hiểu dữ liệu đang muốn nói điều gì. Sau đó mình càng đi tìm hiểu, mình cảm thấy thích và hứng thú với ngành này, nên mình quyết định theo đuổi nó. Mình thấy nhiều điều thú vị không chỉ nội dung câu chuyện, mà từ câu chuyện mang đến nhiều sự hữu ích và ý nghĩa riêng. 
+                    </p>
+                    <p><center><strong>HÀNH TRÌNH VÀO ĐẠI HỌC |<br />
+                    </strong><I>Sự nhộp nhịp của Sài Gòn</i></center></p>
+                    <p>Kể từ mùa hè năm 2018, mình đã bước ra khỏi cái ao để bơi vào biển lớn. Mình rời xa ngôi làng của mình: không internet, không ngoại ngữ, và môi trường giáo dục với trang thiết bị đơn sơ để bước vào Sài Gòn rộng lớn (có lẽ một số người sẽ nghĩ SG nhỏ bé), nhưng với mình vào thời điểm đó SG rất rộng và hoành tráng, được gặp những người bạn giỏi giang, tuyệt vời, những anh chị luôn bên cạnh và ủng hộ mình. Tại đây, mình có khát khao được đi ra ngoài mảnh liệt, mình muốn tiếp thu kiến thức và văn hóa từ thế giới bên ngoài. Điều quan trọng là phải trung thực về thực tế của việc theo đuổi khát khao của chính bản thân mình. 
+                    </p>
+                    </div>
+                <div class="lg:w-1/3 w-full mt-10 lg:mt-0">
+                    <div class="w-full mb-4 border-2 border-solid border-pink-200 relative p-5">
+                    <p><center>About me
+                        <p>
+                        <img src="./assets/images/abc.png"
+                        alt=""
+                        class="my-0.5 mx-auto object-cover"
+                        />
+                        <p><center>Kiều Ly<br />
+                        +21 / +1<br />
+                        Writer / Analysis</p>
+                        <p>
+                        More <a href="about.php" target="_blank">here</a>.</p>
+                    </div>
+
+                    <div class="w-full mb-5 border-2 border-solid border-pink-200 relative py-10 px-4">
+                    <h4 class="widget-title widgettitle"><center>Instagram / @toi_la_ly</h4>
+                    <img src="./assets/images/instagram.JPG "
+                        alt=""
+                        class="my-0.5 mx-auto object-cover"
+                        />
+                    <p><center><a href="https://www.instagram.com/toi_la_ly/?hl=en" target="_blank">Follow: @toi_la_ly</a></p>
+                    </div>
+
+
+
+                </div>
+            </div>
         </div>
-        <div class="   flex justify-center">
-          <img src="./assets/images/ly.PNG" alt="" class="img-fluid w-80 h-80 
-          rounded-full object-cover" />
-        </div>
-      </div>
-  
-    </div>
-    <div class=" container w-2/3 mx-auto py-lg-3">Tôi thích toán học, hầu hết các điểm môn lý thuyết sác xuất, ma trận điểm đều A. Tôi thấy nó rất hữu ích, sau này tôi càng học thêm 
-            về phân tích dữ liệu, mọi quyết định được đưa ra đều có tính logic và thông qua toán học, nó nắm một vai trò quan trọng trong giải quyết bài toán, và không 
-            dựa trên tính chủ quan của người phân tích.
-            Ngoài ra, Tôi thích đọc sách, nó giúp tôi tập trung và cân bằng cảm xúc. Lúc ở quê, gia đình tôi không khá giả nên việc mua sách
-            còn hạn chế, sau khi lên đại học tôi có thể trao đổi sách với bạn bè, mược thư viện, và biến thêm nhiều nguồn sách đọc online trên mạng. Thông qua những cuốn sách
-            bé nhỏ chứa đậm mùi thơm của giấy, tôi đã khám phá được nhiều thứ bên ngoài, hoặc những điều mà mình chưa từng nghe tới.
-            Hát hay nhảy không phải sở trường của tôi, bù lại tôi lại biết vẽ và cũng yêu thích nó nhiều, tôi luôn có niềm tin rằng mỗi bức tranh đều có hồn và thể hiện được tâm trạng của người vẽ.
-            Khi đặt bút lên tấm giấy, ta tậm trung và đưa cảm xúc vào những nét vẽ. Tôi nghĩ đó là một điều tuyệt vời</p></div>
-  </div>
-  <!-- subscribe form -->
-  <!-- //subscribe form -->
-  <!-- footer-66 -->
-
-  <!--//footer-66 -->
-
-  <!-- jQuery JS -->
-  <!-- <script src="assets/js/jquery-3.4.1.slim.min.js"></script> -->
-  <script src="assets/js/jquery-1.9.1.min.js"></script>
-
-
-  <script src="assets/js/theme-change.js"></script>
-
-  <!-- responsive tabs -->
-  <script src="assets/js/easyResponsiveTabs.js"></script>
-
-  <!--Plug-in Initialisation-->
-  <script type="text/javascript">
-    $(document).ready(function () {
-      //Horizontal Tab
-      $('#parentHorizontalTab').easyResponsiveTabs({
-        type: 'default', //Types: default, vertical, accordion
-        width: 'auto', //auto or any width like 600px
-        fit: true, // 100% fit in a container
-        tabidentify: 'hor_1', // The tab groups identifier
-        activate: function (event) { // Callback function if tab is switched
-          var $tab = $(this);
-          var $info = $('#nested-tabInfo');
-          var $name = $('span', $info);
-          $name.text($tab.text());
-          $info.show();
-        }
-      });
-    });
-  </script>
-  <!-- Template JavaScript -->
-  <script src="assets/js/owl.carousel.js"></script>
-  <!-- script for banner slider-->
-  <script>
-    $(document).ready(function () {
-      $('.owl-one').owlCarousel({
-        loop: true,
-        margin: 0,
-        nav: false,
-        responsiveClass: true,
-        autoplay: true,
-        autoplayTimeout: 5000,
-        autoplaySpeed: 1000,
-        autoplayHoverPause: false,
-        responsive: {
-          0: {
-            items: 1,
-            nav: false
-          },
-          480: {
-            items: 1,
-            nav: false
-          },
-          667: {
-            items: 1,
-            nav: true
-          },
-          1000: {
-            items: 1,
-            nav: true
-          }
-        }
-      })
-    })
-  </script>
-  <!-- //script -->
-
-  <!-- disable body scroll which navbar is in active -->
-  <script>
-    $(function () {
-      $('.navbar-toggler').click(function () {
-        $('body').toggleClass('noscroll');
-      })
-    });
-  </script>
-  <!-- disable body scroll which navbar is in active -->
-
-
   <!-- Bootstrap JS -->
-  <script src="assets/js/bootstrap.min.js"></script>
     <?php include_once 'footer.php' ?>
 
 </body>
